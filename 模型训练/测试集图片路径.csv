@@ -1,0 +1,32 @@
+breed,dir,count
+Abyssinian,./images/test_dateset/Abyssinian,40
+American Shorthair,./images/test_dateset/American Shorthair,42
+Bengal,./images/test_dateset/Bengal,40
+Birman,./images/test_dateset/Birman,40
+Bombay,./images/test_dateset/Bombay,317
+British Shorthair,./images/test_dateset/British Shorthair,40
+Calico,./images/test_dateset/Calico,606
+Cornish Rex,./images/test_dateset/Cornish Rex,45
+Dilute Calico,./images/test_dateset/Dilute Calico,571
+Dilute Tortoiseshell,./images/test_dateset/Dilute Tortoiseshell,548
+Egyptian Mau,./images/test_dateset/Egyptian Mau,40
+LaPerm,./images/test_dateset/LaPerm,64
+Maine Coon,./images/test_dateset/Maine Coon,40
+Munchkin,./images/test_dateset/Munchkin,60
+Nebelung,./images/test_dateset/Nebelung,64
+Norwegian Forest Cat,./images/test_dateset/Norwegian Forest Cat,103
+Ocicat,./images/test_dateset/Ocicat,57
+Oriental Long Hair,./images/test_dateset/Oriental Long Hair,51
+Oriental Short Hair,./images/test_dateset/Oriental Short Hair,53
+Persian,./images/test_dateset/Persian,561
+Ragdoll,./images/test_dateset/Ragdoll,457
+Russian Blue,./images/test_dateset/Russian Blue,315
+Siamese,./images/test_dateset/Siamese,40
+Singapura,./images/test_dateset/Singapura,74
+Snowshoe,./images/test_dateset/Snowshoe,284
+Somali,./images/test_dateset/Somali,46
+Sphynx - Hairless Cat,./images/test_dateset/Sphynx - Hairless Cat,55
+Torbie,./images/test_dateset/Torbie,619
+Tortoiseshell,./images/test_dateset/Tortoiseshell,668
+Turkish Angora,./images/test_dateset/Turkish Angora,132
+Tuxedo,./images/test_dateset/Tuxedo,557
