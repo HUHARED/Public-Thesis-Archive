@@ -1,0 +1,32 @@
+index,breed_en,breed_ch,petEncyclopedia,wiki,baidu
+0,Abyssinian,阿比西尼亚猫,http://www.boqii.com/entry/detail/339.html,https://zh.wikipedia.org/wiki/%E9%98%BF%E6%AF%94%E8%A5%BF%E5%B0%BC%E4%BA%9A%E7%8C%AB,
+1,American Shorthair,美国短毛猫,http://www.boqii.com/entry/detail/1390.html,https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E7%9F%AD%E6%AF%9B%E7%8C%AB,https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E7%9F%AD%E6%AF%9B%E7%8C%AB
+2,Bengal,孟加拉豹猫,http://www.boqii.com/entry/detail/2513.html,https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%B2%93,
+3,Birman,伯曼猫,http://www.boqii.com/entry/detail/356.html,https://zh.wikipedia.org/wiki/%E4%BC%AF%E6%9B%BC%E8%B2%93,
+4,Bombay,孟买猫,http://www.boqii.com/entry/detail/296.html,https://zh.wikipedia.org/wiki/%E5%AD%9F%E8%B2%B7%E8%B2%93,
+5,British Shorthair,英国短毛猫,http://www.boqii.com/entry/detail/458.html,https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9B%BD%E7%9F%AD%E6%AF%9B%E7%8C%AB,
+6,Calico,三花猫,,https://zh.wikipedia.org/zh/%E4%B8%89%E8%89%B2%E8%B2%93,
+7,Cornish Rex,柯尼斯卷毛猫,http://www.boqii.com/entry/detail/400.html,,
+8,Dilute Calico,灰三花猫,,https://zh.wikipedia.org/zh/%E4%B8%89%E8%89%B2%E8%B2%93,
+9,Dilute Tortoiseshell,灰玳瑁猫,,https://zh.wikipedia.org/wiki/%E7%8E%B3%E7%91%81%E7%8C%AB,
+10,Egyptian Mau,埃及猫,http://www.boqii.com/entry/detail/336.html,https://zh.wikipedia.org/wiki/%E5%9F%83%E5%8F%8A%E8%B2%93,
+11,LaPerm,拉邦猫,,,https://baike.baidu.com/item/%E6%8B%89%E9%82%A6%E7%8C%AB
+12,Maine Coon,缅因猫,http://www.boqii.com/entry/detail/2518.html,https://zh.wikipedia.org/wiki/%E7%B7%AC%E5%9B%A0%E8%B2%93,
+13,Munchkin,曼肯基猫,http://www.boqii.com/entry/detail/2517.html,,
+14,Nebelung,内华达猫,http://www.boqii.com/entry/detail/384.html,,
+15,Norwegian Forest Cat,挪威森林猫,http://www.boqii.com/entry/detail/2521.html,,https://baike.baidu.com/item/%E6%8C%AA%E5%A8%81%E6%A3%AE%E6%9E%97%E7%8C%AB
+16,Ocicat,欧西猫,http://www.boqii.com/entry/detail/341.html,,
+17,Oriental Long Hair,东方长毛猫,,,https://baike.baidu.com/item/%E4%B8%9C%E6%96%B9%E9%95%BF%E6%AF%9B%E7%8C%AB
+18,Oriental Short Hair,东方短毛猫,http://www.boqii.com/entry/detail/401.html,https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9%E7%9F%AD%E6%AF%9B%E8%B2%93,
+19,Persian,波斯猫,http://www.boqii.com/entry/detail/364.html,https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%96%AF%E8%B2%93,
+20,Ragdoll,布偶猫,http://www.boqii.com/entry/detail/330.html,https://zh.wikipedia.org/wiki/%E5%B8%83%E5%81%B6%E8%B2%93,
+21,Russian Blue,俄罗斯蓝猫,http://www.boqii.com/entry/detail/416.html,https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BE%85%E6%96%AF%E8%97%8D%E8%B2%93,
+22,Siamese,暹罗猫,http://www.boqii.com/entry/detail/359.html,https://zh.wikipedia.org/wiki/%E6%9A%B9%E7%BD%97%E7%8C%AB,
+23,Singapura,新加坡猫,http://www.boqii.com/entry/detail/349.html,https://zh.wikipedia.org/zh-hans/%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%B2%93,https://baike.baidu.com/item/%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%8C%AB
+24,Snowshoe,雪鞋猫,,https://zh.wikipedia.org/wiki/%E9%9B%AA%E9%9E%8B%E8%B2%93,https://baike.baidu.com/item/%E9%9B%AA%E9%9E%8B%E7%8C%AB
+25,Somali,索马里猫,http://www.boqii.com/entry/detail/390.html,https://zh.wikipedia.org/wiki/%E7%B4%A2%E9%A6%AC%E5%88%A9%E8%B2%93,https://baike.baidu.com/item/%E7%B4%A2%E9%A9%AC%E9%87%8C%E7%8C%AB
+26,Sphynx - Hairless Cat,斯芬克斯猫,http://www.boqii.com/entry/detail/389.html,https://zh.wikipedia.org/wiki/%E6%96%AF%E8%8A%AC%E5%85%8B%E6%96%AF%E8%B2%93,
+27,Torbie,玳瑁猫,,https://zh.wikipedia.org/wiki/%E7%8E%B3%E7%91%81%E7%8C%AB,https://baike.baidu.com/item/%E7%8E%B3%E7%91%81%E7%8C%AB
+28,Tortoiseshell,灰玳瑁猫,,https://zh.wikipedia.org/wiki/%E7%8E%B3%E7%91%81%E7%8C%AB,https://baike.baidu.com/item/%E7%8E%B3%E7%91%81%E7%8C%AB
+29,Turkish Angora,土耳其安哥拉猫,http://www.boqii.com/entry/detail/438.html,https://zh.wikipedia.org/wiki/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AE%89%E5%93%A5%E6%8B%89%E8%B2%93,https://baike.baidu.com/item/%E5%AE%89%E5%93%A5%E6%8B%89%E7%8C%AB
+30,Tuxedo,晚礼服猫,http://tomycat.blog.sohu.com/136891755.html,,https://baike.baidu.com/item/%E5%A5%B6%E7%89%9B%E7%8C%AB/2780120?fromtitle=%E9%BB%91%E7%99%BD%E7%8C%AB&fromid=6029968
